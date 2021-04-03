@@ -2,3 +2,4 @@ __pycache__
 .vscode
 /tests
 /test_*
+.DS_Store
